@@ -1,0 +1,128 @@
+body {
+background-color: #EFEBCE;
+width: 1920px;
+height: 10000px;
+
+}
+
+
+.rindkopas-krasa {
+background-color: #FFFBDD;
+text-align: center;
+font-family: "Kavivanar", cursive;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+
+.centret-saturu {
+    
+    margin: 0%;
+
+}
+
+
+.py-3 {
+padding-top: 1rem;
+padding-bottom: 1rem;
+
+}
+
+.justify-content-center {
+justify-content: space-between;
+
+}
+
+.d-flex {
+display: flex;
+
+}
+
+.nav-pills {
+
+
+}
+
+
+.nav-link {
+display: block;
+padding: var(0,5rem) var(1rem);
+
+width: 173px;
+height: 45px;
+
+color: #000;
+text-align: center;
+font-family: 'Sahitya', serif;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+}
+
+.container {
+background-color: #D8A48F;
+
+
+}
+
+
+
+
+
+.pirma-lapa {
+    height: 1000px;
+    width: 1920px;
+background-color: #D6CE93;
+
+
+
+
+
+
+
+
+}
+
+.otra-lapa {
+    width: 200px;
+    height: 200px;
+background-color: lime;
+
+
+margin-left: 260px;
+
+
+
+
+
+
+}
+
+.tresa-lapa {
+    width: 200px;
+    height: 200px;
+    background-color: fuchsia;
+
+margin-left: 500px;
+
+
+
+}
+
+
+.ceturta-lapa {
+    height: 200px;
+    width: 200px;
+background-color: rgb(0, 0, 255);
+position: relative;
+left: 400px;
+
+
+
+
+}
